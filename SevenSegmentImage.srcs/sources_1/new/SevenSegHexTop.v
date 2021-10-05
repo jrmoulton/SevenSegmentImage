@@ -6,13 +6,9 @@ module SevenSegmentTop(
     
     wire [6:0] D;
     // If using HEX as well, assign seg = ~D, and comment out NAN lines
-    //assign seg = ~D;
-    wire NAN = sw[3]&sw[1] | sw[3]&sw[2];
-    assign seg = ~(D&~{7{NAN}});
+    assign seg = ~D;
     assign an = ~sw[7:4];
-    //SevenSegmentTruthTable S1(
-    SevenSegmentCombinational S1(
-    //SevenSegHex S1(
+    SevenSegHex S1(
     .x3(sw[3]),
     .x2(sw[2]),
     .x1(sw[1]),
