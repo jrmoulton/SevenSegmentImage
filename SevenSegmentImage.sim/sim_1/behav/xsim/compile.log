@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/jaredmoulton/Programming/Vivado/SevenSegmentImage/SevenSegmentImage.srcs/sources_1/new/SevenSegmentCombinational.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SevenSegmentCombinational
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/jaredmoulton/Programming/Vivado/SevenSegmentImage/SevenSegmentImage.srcs/sources_1/new/SevenSegmentTop.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SevenSegmentTop
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/jaredmoulton/Programming/Vivado/SevenSegmentImage/SevenSegmentImage.srcs/sim_1/new/SevenSegmentTest.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module SevenSegmentTest

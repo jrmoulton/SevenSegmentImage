@@ -1,0 +1,9 @@
+0.7
+2020.2
+Jun 10 2021
+19:45:28
+/home/jaredmoulton/Programming/Vivado/SevenSegmentImage/SevenSegmentImage.sim/sim_1/behav/xsim/glbl.v,1623370582,verilog,,,,glbl,,,,,,,,
+/home/jaredmoulton/Programming/Vivado/SevenSegmentImage/SevenSegmentImage.srcs/sim_1/new/SevenSegmentTest.v,1633022229,verilog,,,,SevenSegmentTest,,,,,,,,
+/home/jaredmoulton/Programming/Vivado/SevenSegmentImage/SevenSegmentImage.srcs/sources_1/new/SevenSegmentCombinational.v,1633024643,verilog,,/home/jaredmoulton/Programming/Vivado/SevenSegmentImage/SevenSegmentImage.srcs/sources_1/new/SevenSegmentTop.v,,SevenSegmentCombinational,,,,,,,,
+/home/jaredmoulton/Programming/Vivado/SevenSegmentImage/SevenSegmentImage.srcs/sources_1/new/SevenSegmentTop.v,1633024862,verilog,,/home/jaredmoulton/Programming/Vivado/SevenSegmentImage/SevenSegmentImage.srcs/sim_1/new/SevenSegmentTest.v,,SevenSegmentTop,,,,,,,,
+/home/jaredmoulton/Programming/Vivado/SevenSegmentImage/SevenSegmentImage.srcs/sources_1/new/SevenSegmentTruthTable.v,1633022244,verilog,,/home/jaredmoulton/Programming/Vivado/SevenSegmentImage/SevenSegmentImage.srcs/sim_1/new/SevenSegmentTest.v,,SevenSegmentTruthTable,,,,,,,,

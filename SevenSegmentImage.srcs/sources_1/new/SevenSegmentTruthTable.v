@@ -1,4 +1,4 @@
-module SevenSegmentTruthTable(input x0, x1, x2, x3);
+module SevenSegmentTruthTable(input x0, x1, x2, x3, output a, b, c, d, e, f, g);
 
     wire [3:0] N = {x3,x2,x1,x0}; // Pack inputs into a single signal
     reg [6:0] D;
